@@ -1,6 +1,6 @@
 # UMMORPG Mysql Addon
 
-This is a Mysql Addon for uMMORPG 1.144 and [previous versions](https://github.com/paulpach/ummorpg_mysql/releases)
+This is a Mysql Addon forked from PaulPauch[previous versions](https://github.com/paulpach/ummorpg_mysql/releases) and now is compatible with v1.148 uMMORPG 
 
 This is pretty much a drop in replacement for the sqlite Database.cs that comes with uMMORPG.  
 
