@@ -28,7 +28,7 @@ you have been warned
 
 ## 2. Install mysql
 I recommend mysql 8.0 or later [community edition](https://dev.mysql.com/downloads/). 
-Or In my case, you can use WampServer [Wampserver 3.1.xx x64](http://www.wampserver.com/en/)
+Or In my case, you can use WampServer [Wampserver 3.1.xx x64](http://www.wampserver.com/en/).
 
 ## 3. Set character encoding (if MySQL version 7 or earlier)
 If using MySQL 7 or earlier,  the default character set is `latin1`, which causes problems for the mysql driver.
